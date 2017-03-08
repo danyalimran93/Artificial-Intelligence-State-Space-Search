@@ -44,7 +44,7 @@ To create the testcase file, the format is as:
 ```
 N M
 source_x source_y
-dest_x source_y
+destination_x destination_y
 grid of NxM dimensions
 ```
 
