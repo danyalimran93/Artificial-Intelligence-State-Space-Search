@@ -15,7 +15,7 @@ public class State {
         
         visited = new boolean[n][m];
         for(int i=0; i<n; i++) {
-            for(int j=0; j<m; j++) visited[i][j] = v[i][j];
+            System.arraycopy(v[i], 0, visited[i], 0, m);
         }
     }
     
