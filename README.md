@@ -35,6 +35,19 @@ Optimal Path: {(0, 0) -> (1, 1) -> (2, 2) -> (3, 3) -> (4, 4)}
 Each Problem will run with their own time complexity but will give the same output as above for the same configuration
 ```
 
+**Solution**
+
+The solution is for N x M dimensional grid. Algorithms optimize their route to find the shortest path as fast as possible. There are 3 input files given that can be tested, whilst other (your own or you friends) test cases can run aswell. 
+
+To create the testcase file, the format is as:
+
+```
+N M
+source_x source_y
+dest_x source_y
+grid of NxM dimensions
+```
+
 ## - Animations
 
 - **DFS vs BFS Animation**
