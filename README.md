@@ -11,7 +11,7 @@ The following are the searches with their frontiers as:
 - **Breadth First Search (BFS)** - Queue
 - **Iterative Deepening Search (IDS)** - Stack/Recursion + Queue
 - **Greedy Best First Search (Greedy)** - Priority Queue
-- **A* Search (A*)** - Priority Queue
+- **A Star Search (A\*)** - Priority Queue
 
 ## - Problem Statement
 
